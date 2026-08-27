@@ -1,0 +1,6 @@
+{
+  "name": "PEIMA School Eligibility & Upgradation Dashboard",
+  "description": "Executive monitoring dashboard for Punjab Education Initiatives Management Authority (PEIMA) tracking school eligibility, grade approvals (6th, 7th, 8th), infrastructure constraints, and live Google Sheet synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
